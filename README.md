@@ -1,3 +1,5 @@
+![tuiti](imgs/tuiti.png)
+
 # ESTUDO DIRIGIDO 2º BIMESTRE - FUNDAMENTOS DA COMPUTAÇÃO
 
 Criação de um artigo cienttífico, "ESTUDO SOBRE A ISO/IEC 27005 - GESTÃO DE RISCOS DE SEGURANÇA DA INFORMAÇÃO"
